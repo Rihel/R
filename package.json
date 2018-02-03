@@ -1,0 +1,26 @@
+{
+  "name": "R",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev":"node_modules/.bin/parcel  -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rihel/R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rihel/R/issues"
+  },
+  "homepage": "https://github.com/Rihel/R#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.5.1",
+    "parcel-plugin-typescript": "^0.5.3",
+    "typescript": "^2.7.1"
+  }
+}
